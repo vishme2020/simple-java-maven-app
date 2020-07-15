@@ -26,6 +26,7 @@
           <archive>
             <manifest>
               <addClasspath>true</addClasspath>
+              <failOnMissingWebXml>false</failOnMissingWebXml>
               <classpathPrefix>lib/</classpathPrefix>
               <mainClass>com.mycompany.app.App</mainClass>
             </manifest>
